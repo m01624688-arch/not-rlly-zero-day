@@ -1,7 +1,6 @@
 # UAC Bypass via `SilentCleanup` Environment Hijack: A Case Study of `pwgate.c`
 
-**Author:** VANTA
-**Target:** Windows 11 x64, C11/MSVC
+![Screenshot](ah.png)
 
 * * *
 
